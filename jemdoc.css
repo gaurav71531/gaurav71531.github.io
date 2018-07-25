@@ -235,11 +235,14 @@ div.codeblock, div.infoblock {
 	margin-right: 0%;
 	margin-top: 1.2em;
 	margin-bottom: 1.3em;
+	width: 100%;
+/*	word-wrap: break-word; */
 }
 
 div.blocktitle {
 	font-weight: bold;
 	color: #cd7b62;
+/*	color: #F64F2B; */
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -247,6 +250,9 @@ div.blocktitle {
 div.blockcontent {
 	border: 1px solid silver;
 	padding: 0.3em 0.5em;
+	width: 100%;
+/*	word-break: break-all;
+    white-space: normal;*/
 }
 
 div.infoblock > div.blockcontent {
@@ -271,6 +277,7 @@ div.infoblock p + p {
 
 div.codeblock > div.blockcontent {
 	background: #f6f6f6;
+/*	background:	#E26464;*/
 }
 
 span.pycommand {
@@ -344,8 +351,9 @@ td {
     padding: 2px;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    text-align: center;
-    border: 1px solid gray;
+/*    text-align: center;*/
+/*    border: 1px solid gray; */
+ /*   vertical-align: top;*/
 }
 
 table + table {
@@ -361,7 +369,74 @@ img {
     border: none;
 }
 
+img.round{
+	border-radius:50%;
+}
+
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+}
+
+
+table.grid{
+	border: none;
+	border-spacing: 10px;
+	padding: 10px;
+}
+table.colorBlock {
+	width: 100%;
+	text-align: center;
+	border: 1px solid gray;
+	color: black;
+/*	background-color:#CCCCCC;*/
+	background-color: #ECECEC;
+	box-shadow: 5px 10px 8px #888888;
+}
+
+td.cbHeading{
+	font-weight: bold;
+	color:#990000;
+/*	color: #cd7b62;
+	color: #F64F2B; */
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	text-align:center;
+	width: 100%;
+/*	padding:15px;*/
+	padding-bottom:8px;
+}
+
+td.topBox{
+	vertical-align: top;
+	/*background-color:#E26464;*/
+	/*box-shadow: 5 px 10px red;*/
+}
+
+td.innerBlock{
+	padding:10px;
+	vertical-align:top;
+}
+
+td.fullBlock{
+	text-align:left;
+	width:9999999px;
+}
+
+td.image{
+	padding:0px;
+}
+
+td.bottomText{
+	text-align:left;
+	hyphens:auto;
+}
+
+a.bh{
+	font-weight: bold;
+	font-size: large;
+	color:#990000;
+}
+a.bh:hover{
+	border-bottom: 1px #990000 solid;
 }
