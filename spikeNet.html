@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Data-driven Perception of Neuron Point Process with Unknown Unknowns</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Data-driven Perception of Neuron Point Process with Unknown Unknowns</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="pics/spikeNetAppl.png" alt="bci" width="750px" height="300px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<p><b>Abstract:</b> Identification of patterns from discrete data time-series for statistical inference, threat detection, social opinion dynamics, brain activity prediction has received recent momentum. In addition to the huge data size, the associated challenges are, for example, (i) missing data to construct a closed time-varying complex network, and (ii) contribution of unknown sources which are not probed. Towards this end, the current work focuses on statistical neuron system model with multi-covariates and unknown inputs. Previous research of neuron activity analysis is mainly concerned with effects from spiking history of the target neuron and the interaction with other neurons in the system while ignoring the influence of unknown stimuli. We propose to use textit{unknown unknowns}, which describes the effect of unknown stimuli, undetected neuron activities and all other hidden sources of error. The generalized linear model links neuron spiking behavior with past activities in the ensemble neuron system, as well as the unknown influence. We develop a maximum likelihood estimation method based on fixed-point iteration. The fixed-point iterations converge fast, and besides, the proposed methods can be efficiently parallelized to offer computational advantage especially when the input spiking trains are over long time-horizon. The developed framework provides an intuition into the meaning of having extra degrees-of-freedom in the data to support the need for unknowns. The proposed algorithm is applied to simulated spike trains and on real-world experimental data of mouse somatosensory, mouse retina and cat retina. The implementation shows a successful increase of the model likelihood with respect to the conditional intensity function, and it also reveals the convergence with iterations. Results suggest that the neural connection model with unknown unknowns can efficiently estimate the statistical properties of the process by increasing the network likelihood.<br />
+<a href="https://arxiv.org/abs/1811.00688">[paper</a>]</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2019-11-22 01:34:32 EST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121309974-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-121309974-2');
+</script>
+</body>
+</html>
