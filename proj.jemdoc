@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{proj.html}
+= Gaurav Gupta
+
+^^^
+{}{colorGrid}{part}{pics/f_diff.png}{rect}{fdiff}{350px}{200px}{Fractional Diffusion Equations}{fDiff.html}{Learning fractional PDEs from the time-series data}
+{}{colorGrid}{part}{pics/appSMF.png}{rect}{aSMF}{250px}{220px}{Approximate submodular functions}{appSMF.html}{Approximating a non-submodular function by bounding the function marginals with submodular functions}
+{}{colorGrid}{part}{pics/spikeNet.png}{rect}{spkNet}{390px}{200px}{Network Reconstruction with spiking events}{spikeNet.html}{Complex networks reconstruction from spike trains using generalized poisson process with unknown unknowns}
+{}{colorGrid}{part}{pics/complexNet.png}{rect}{cNetUU}{250px}{220px}{Dealing with Unknown Unknowns}{uu.html}{Complex networks modeling using fractional dynamics in the presense of hidden nodes/unknown unknowns}
+{}{colorGrid}{part}{pics/brainMain.png}{rect}{brainEEG}{280px}{220px}{Re-thinking EEG based interfaces}{eeg.html}{Fractional dynamical modeling of EEG signals for motor imagery task predictions}
+{}{colorGrid}{part}{pics/ror.PNG}{rect}{ror}{250px}{250px}{Resource allocation in uncertainty}{ror.html}{Dynamics resource allocation under uncertain environments}
+
+^^^

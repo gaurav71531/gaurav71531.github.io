@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{resAreas.html}
+= Research Areas
+
+== Run-of-the-river
+
+~~~
+{}{img_left}{pics/ror.PNG}{800px}{600px}{}{}
+~~~
+
+This project dealt with a novel formulation of general problem of resource distribution which is dependent on uncertain environments. One possible application of the proposed problem is run-of-the-river (ROR) distribution across the river subject to uncertainties in the river flow. The idea is to place RORs across the river such that the probability distribution of demand is close to that of generated power. A probabilistic clustering approach is used to partition the geographic space. The uncertainty in the environment (river) is split into 2 parts, short-term and long-term. For short-term, a novel ‘disturb and settle’ algorithm is employed to determine the placement of RORs. For long-term a closed loop is designed as shown in the figure to decide the sleep/wake periods of the ROR units. The real water-flow data of Mississippi river is used to see performance of the proposed formulation and algorithm.

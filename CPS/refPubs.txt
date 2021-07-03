@@ -1,0 +1,192 @@
+\section{\sc Journal Publicati-\\
+ons}
+J20. Lucretia Udrescu, Laura Sbarcea, Alexandru Topirceanu, Alexandru Iovanovici, Ludovic Kurunczi, \textbf{Paul Bogdan}, and Mihai Udrescu, \textit{Clustering Drug-Drug Interaction Networks with Energy Model Layouts: Community Analysis and Drug Repurposing}, Nature Scientific Reports 6, Article number: 32745, September 2016  
+\vspace*{-6mm}\\
+
+J19. Yuankun Xue, Ji Li, Shahin Nazarian, and \textbf{Paul Bogdan}, \textit{A List of Fundamental Challenges Towards Making IoT a Reachable Reality: A Model-centric Investigation}, accepted to appear in ACM Transactions on Design Automation of Electronic Systems (TODAES), November 2016
+
+J18. Karthi Duraisamy, Yuankun Xue, \textbf{Paul Bogdan} and Partha Pratim Pande, \textit{Multicast-aware High Performance Wireless Network-on-Chip Architectures}, to appear in the IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2016
+\vspace*{-6mm}\\
+
+J17. Hana Koorehdavoudi and \textbf{Paul Bogdan}, \textit{A Statistical Physics Characterization of the Complex Systems Dynamics: Quantifying Complexity from Spatio-Temporal Interactions}, Nature Scientific Reports 6, Article number: 27602, June 2016
+\vspace*{-6mm}\\
+
+J16. Xian Li, Karthi Duraisamy, \textbf{Paul Bogdan}, Turbo Majumder, and Partha Pande, \textit{Network-on-Chip-Enabled Multicore Platforms for Parallel Model Predictive Control}, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 24, no. 9, pp. 2837-2850, September 2016 
+\vspace*{-6mm}\\
+
+J15. Zhiliang Qian, \textbf{Paul Bogdan}, Chi-Ying Tsui and Radu Marculescu, \textit{Performance Evaluation of NoC-based Multicore Systems: From Traffic Analysis to NoC Latency Modelling}, ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 21, no. 3, Article 52, May 2016
+\vspace*{-6mm}\\
+
+J14. Zhiliang Qian, Da-Cheng Juan, \textbf{Paul Bogdan}, Chi-Ying Tsui, Diana Marculescu, and Radu Marculescu, \textit{A Support Vector Regression (SVR) based Latency Model for Network-on-Chip (NoC) Architectures}, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 3, pp. 471-484, March 2016 
+\vspace*{-6mm}\\
+
+J13. Jiang Zhuang, Guopeng Wei, Rika Wright Carlsen, Matthew R. Edwards, Radu Marculescu, \textbf{Paul Bogdan}, and Metin Sitti, \textit{Analytical Modeling and Experimental Characterization of Chemotaxis in Serratia Marcescens}, Physical Review E, vol. 89, issue 5, May 2014
+\vspace*{-6mm}\\
+
+J12. \textbf{Paul Bogdan}, Bridget M. Deasy, Burhan Gharaibeh, Timo Roehrs and Radu Marculescu, \textit{Heterogeneous Structure of Stem Cells Dynamics: Statistical Models and Quantitative Predictions}, Nature Scientific Reports 4, Article number 4826, April 2014
+\vspace*{-6mm}\\
+
+J11. Simon J. Hollis, Chris Jackson, \textbf{Paul Bogdan} and Radu Marculescu, \textit{Exploiting Emergence in On-chip Interconnects}, IEEE Transactions on Computers, \textbf{Special Issue on Network on Chip}, vol. 63, no. 3, pp. 570-582, March 2014
+\vspace*{-6mm}\\
+
+J10. \textbf{Paul Bogdan}, Siddharth Jain, and Radu Marculescu, \textit{Dynamic Power Management for Multi-domain Processor Systems-on-Chip Platforms: An Optimal Control Approach} ACM Transactions on Design Automation of Electronic Systems, \textbf{Special Section on Network on Chip}, vol. 18, issue 4, Article 46, October 2013
+\vspace*{-6mm}\\
+
+J9. Guopeng Wei, \textbf{Paul Bogdan}, and Radu Marculescu, \textit{Bumpy Rides: Modeling the Dynamics of Chemotactic Interacting Bacteria}, IEEE Journal on Selected Areas in Communications, \textbf{Special Issue on Nanoscale and Molecular Networking}, vol. 31, no. 12, pp. 879-890, December 2013
+\vspace*{-6mm}\\
+
+J8. Guopeng Wei, \textbf{Paul Bogdan}, and Radu Marculescu, \textit{Efficient Modeling and Simulation of Bacteria-based Nanonetworks with BNSim}, IEEE Journal on Selected Areas in Communications, \textbf{Special Issue on Nanoscale and Molecular Networking}, vol.31, no.12, pp.868-878, December 2013
+\vspace*{-6mm}\\
+
+J7. \textbf{Paul Bogdan}, Siddharth Jain and Radu Marculescu, \textit{Pacemaker Control of Heart Rate Variability: A Cyber Physical System Perspective}, ACM Transactions on Embedded Computing Systems, \textbf{Special Issue on Cyber-Physical Systems}, vol. 12, Article 50, March 2013
+\vspace*{-11mm}\\
+
+J6. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Cyberphysical Systems: Workload Modeling and Design Optimization}, IEEE Design and Test of Computers, vol. 28, no. 4, pp. 78-87, July/Aug. 2011
+\vspace*{-6mm}\\
+
+J5. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Hitting Time Analysis for Fault-tolerant Communication at Nanoscale in Future Multiprocessor Platforms}, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 30(8), pp. 1197-1210, July 2011
+\vspace*{-6mm}\\
+
+J4. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Non-Stationary Traffic Analysis and Its Implications on Multicore Platform Design}, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, \textbf{Special Section on Network on Chip}, 30(4), pp. 508-519, April 2011
+\vspace*{-6mm}\\
+
+J3. Umit Ogras, \textbf{Paul Bogdan} and Radu Marculescu, \textit{An Analytical Approach for Network-on-Chip Performance Analysis}, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol.29, no.12, pp.2001-2013, December 2010 (\textbf{2012 Donald O. Pederson Award})
+\vspace*{-6mm}\\
+
+J2. Radu Marculescu and \textbf{Paul Bogdan}, \textit{The Chip Is the Network: Towards a Science of Network-on-Chip Design}, Foundations and Trends in Electronic Design Automation, vol. 2, no. 4, pp. 371-461, March 2009
+\vspace*{-6mm}\\
+
+J1. \textbf{Paul Bogdan}, Tudor Dumitras, Radu Marculescu, \textit{Stochastic Communication: A New Paradigm for Fault Tolerant Networks-on-Chip}, VLSI Design Journal, \textbf{Special Issue on Networks-on-Chip}, February 2007
+
+\section{\sc Conference Publications}
+C45. Laith Shalalfeh, \textbf{Paul Bogdan}, and Edmond Jonckheere, \textit{Kendall's Tau of Frequency Hurst Exponent as Blackout Proximity Margin}, to appear in the Proceedings of the 2016 IEEE International Conference on Smart Grid Communications (SmartGridComm): Control and Operation for Smart Grids, Microgrids and Distributed Resources, Sydney, Australia, November 2016
+\vspace*{-6mm}\\
+
+C44. \textbf{Paul Bogdan}, Miroslav Pajic, Partha Pratim Pande, and Vijay Raghunathan, \textit{Making the Internet-of-Things a Reality: From Smart Models, Sensing and Actuation to Energy-Efficient Architectures}, Special Session in the Internet-of-Things (IoT) Day, Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Pittsburgh, U.S.A., October 2016
+\vspace*{-6mm}\\
+
+C43. Yuankun Xue$^{*}$ and \textbf{Paul Bogdan}, \textit{Scalable and Realistic Benchmark Synthesis for Efficient NoC Performance Evaluation: A Complex Network Analysis Approach}, Proceedings of the International Conf. on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Pittsburgh, U.S.A., October  2016
+\vspace*{-6mm}\\
+
+C42. Yuankun Xue$^{*}$, Sergio Pequito, Joana Maria Rosado Coelho, \textbf{Paul Bogdan}, George Pappas, \textit{Minimum Number of Sensors to Ensure Observability of Physiological Systems: a Case Study}, Proceedings of 54th Annual Allerton Conference on Communication, Control, and Computing (Allerton), September 2016
+\vspace*{-6mm}\\
+
+C41. Xue Lin, Yuankun Xue, \textbf{Paul Bogdan}, Massoud Pedram, Yanzhi Wang and Siddarth Garg, \textit{Power-Aware Virtual Machine Mapping in the Data-Center-on-a-Chip Paradigm}, Proceedings of the 34nd IEEE International Conference on Computer Design (ICCD), October  2016
+\vspace*{-6mm}\\
+
+C40. Yuankun Xue$^{*}$ and \textbf{Paul Bogdan}, \textit{Improving NoC Performance under Spatio-Temporal Variability By Runtime Reconfiguration: A General Mathematical Framework}, Proceedings of the 10th International Symposium on Networks-on-Chip (NOCS), Nara, Japan, September 2016
+\vspace*{-6mm}\\
+
+C39. Laith Shalalfeh, \textbf{Paul Bogdan}, and Edmond Jonckheere, \textit{Evidence of Long-Range Dependence in the Power Grid}, Proceedings of the IEEE Power and Energy Society General Meeting, Boston, U.S.A., July 2016
+\vspace*{-6mm}\\
+
+C38. Yuankun Xue$^{*}$, Saul Rodriguez$^{*}$, and \textbf{Paul Bogdan}, \textit{A Spatio-Temporal Fractal Model for a CPS Approach to Brain-Machine-Body Interfaces}, Proceedings of the 2016 Design, Automation \& Test in Europe Conference \& Exhibition (DATE), Dresden, Germany, March 2016
+\vspace*{-6mm}\\
+
+C37. Sergio Pequito, \textbf{Paul Bogdan} and George J. Pappas, \textit{Minimum Number of Probes for Brain Dynamics Observability}, Proceedings of the 54th IEEE Conference on Decision and Control (CDC), Osaka, Japan, December 2015
+\vspace*{-6mm}\\
+
+C36. \textbf{Paul Bogdan}, Siddharth Garg, and Umit Y. Ogras, \textit{Energy-Efficient Computing from Systems-on-Chip to Micro-server and Data Centers}, (invited paper) Proceedings of the IEEE Sixth International Green and Sustainable Computing Conference, Las Vegas, December 2015
+\vspace*{-6mm}\\
+
+C35. \textbf{Paul Bogdan} and Yuankun Xue$^{*}$, \textit{Mathematical Models and Control Algorithms for Dynamic Optimization of Multicore Platforms: A Complex Dynamics Approach} (Invited Paper), Proceedings of International Conference on Computer Aided Design (ICCAD), November 2015
+\vspace*{-6mm}\\
+
+C34. Xue Lin, \textbf{Paul Bogdan}, Naehyuck Chang, and Massoud Pedram, \textit{Machine learning-based energy management in a hybrid electric vehicle to minimize total operating cost,} in Proceedings of International Conference on Computer Aided Design (ICCAD), November 2015
+\vspace*{-6mm}\\
+
+C33. \textbf{Paul Bogdan}, \textit{Mathematical Modeling and Control of Multifractal Workloads for Data-Center-on-a-Chip Optimization}, in the Proceedings of the International Symposium on Networks-on-Chip (NOCS), Vancouver, Canada, September  2015 
+\vspace*{-6mm}\\
+
+C32. Yuankun Xue$^{*}$ and \textbf{Paul Bogdan}, \textit{User Cooperation Network Coding Approach for NoC Performance Improvement}, in the Proceedings of the International Symposium on Networks-on-Chip (NOCS), Vancouver, Canada, September 2015 
+\vspace*{-6mm}\\
+
+C31. Navid Azizan Ruhi$^{*}$ and \textbf{Paul Bogdan}, \textit{Multiscale Modeling of Biological Communication}, in the Proceedings of the IEEE International Conference on Communications (ICC), London, UK, June 2015
+\vspace*{-6mm}\\
+
+C30. \textbf{Paul Bogdan}, \textit{A Cyber-Physical Systems Approach to Personalized Medicine: Challenges and Opportunities for NoC-based Multicore Platforms}, Proceedings of the 2015 Design, Automation \& Test in Europe Conference \& Exhibition (DATE), Grenoble, France, 2015
+\vspace*{-6mm}\\
+
+C29. Turbo Majumder, Xian Li$^{*}$, \textbf{Paul Bogdan}, and Partha Pande, \textit{NoC-enabled Multicore Architectures for Stochastic Analysis of Biomolecular Reactions} Proceedings of the 2015 Design, Automation \& Test in Europe Conference \& Exhibition (DATE), Grenoble, France, 2015
+\vspace*{-6mm}\\
+
+C28. Xue Lin, Yanzhi Wang, \textbf{Paul Bogdan}, Naehyuck Chang, and Massoud Pedram, \textit{Reinforcement Learning Based Power Management for Hybrid Electric Vehicles}, Proceedings of the International Conference on Computer Aided Design, November 2014
+\vspace*{-6mm}\\
+
+C27. Mahboobeh Ghorbani$^{*}$, Yanzhi Wang, \textbf{Paul Bogdan} and Massoud Pedram, \textit{Prediction and Control of Bursty Cloud Workloads: A Fractal Framework,} Proceedings of the 12th IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), New Delhi, India, October 2014
+\vspace*{-6mm}\\
+
+C26. Yuankun Xue$^{*}$, Zhiliang Qian, Guopeng Wei, \textbf{Paul Bogdan}, Chi-Ying Tsui, and Radu Marculescu, \textit{An Efficient Network-on-Chip (NoC) based Multicore Platform for Hierarchical Parallel Genetic Algorithms,} Proceedings of the International Symposium on Networks-on-Chip (NOCS), Ferrara, Italy, September 2014
+\vspace*{-6mm}\\
+
+C25. Mahboobeh Ghorbani$^{*}$ and \textbf{Paul Bogdan}, \textit{Reducing Risk of Closed Loop Control of Blood Glucose in Artificial Pancreas using Fractional Calculus,} Proceedings of the 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Chicago, Illinois, U.S.A., August 26-30, 2014
+\vspace*{-6mm}\\
+
+C24. Shuang Chen, Mahboobeh Ghorbani$^{*}$, Yanzhi Wang, \textbf{Paul Bogdan}, and Massoud Pedram, \textit{Trace-based Analysis and Prediction of Cloud Computing User Behavior Using the Fractal Modeling,} Proceedings of the IEEE Conference on Big Data, Jun. 2014
+\vspace*{-6mm}\\
+
+C23. Mahboobeh Ghorbani$^{*}$ and \textbf{Paul Bogdan}, \textit{Challenges and Opportunities in Design of Control Algorithm for Artificial Pancreas,} Proceedings of the 5th Workshop on Medical Cyber-Physical Systems (MCPS), Berlin, Germany, April 14, 2014
+\vspace*{-6mm}\\
+
+C22. Yuankun Xue$^{*}$, Zhiliang Qian, \textbf{Paul Bogdan}, Fan Ye and Chi-Ying Tsui, \textit{Disease Diagnosis-on-a-Chip: Large Scale Networks-on-Chip based Multicore Platform for Protein Folding Analysis,} in Proceedings of the Design Automation Conference (DAC), San Francisco, U.S.A., June 2014
+\vspace*{-6mm}\\
+
+C21. Hiroki Matsutani, Michihiro Koibuchi, Ikki Fujiwara, Takahiro Kagami, Yasuhiro Take, Tadahiro Kuroda, \textbf{Paul Bogdan}, Radu Marculescu and Hideharu Amano, \textit{Low-Latency Wireless 3D NoCs via Randomized Shortcut Chips,} Proceedings of the Design, Automation $\&$ Test in Europe (DATE), Dresden, Germany, March 2014
+\vspace*{-6mm}\\
+
+C20. Zhiliang Qian, Da-cheng Juan, \textbf{Paul Bogdan}, Chi-Ying Tsui, Diana Marculescu, and Radu Marculescu, \textit{A Comprehensive and Accurate Latency Model for Network-on-Chip Performance Analysis,} to appear in Proceedings of the 19th Asia and South Pacific Design Automation Conference (ASP-DAC), Singapore, 2014
+\vspace*{-6mm}\\
+
+C19. Mahboobeh Ghorbani$^{*}$ and \textbf{Paul Bogdan}, \textit{A Cyber-Physical System Approach to Artificial Pancreas Design,} in Proceedings of the IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Montreal, Canada, 2013
+\vspace*{-6mm}\\
+
+C18. Zhiliang Qian, Da-Cheng Juan, \textbf{Paul Bogdan}, Chi-Ying Tsui, Diana Marculescu, and Radu Marculescu, \textit{SVR-NoC: A Performance Analysis Tool for Network-on-Chip Architectures Using Learning-based Support Vector Regression Model,} in Proceedings of the IEEE/ACM Design, Automation, and Test in Europe Conference (DATE), Grenoble, France, March 2013
+\vspace*{-6mm}\\
+
+C17. \textbf{Paul Bogdan}, Thomas Sauerwald, Alexandre Stauffer, He Sun, \textit{Balls into Bins via Local Search}, Proc. of the 24th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), New Orleans, Louisiana, U.S.A., January 2013
+\vspace*{-6mm}\\
+
+C16. Hiroki Matsutani, \textbf{Paul Bogdan}, Radu Marculescu, Yasuhiro Take, Daisuke Sasaki, Hao Zhang, Michihiro Koibuchi, Tadahiro Kuroda, Hideharu Amano, \textit{A Case for Wireless 3D NoCs for CMPs}, Proceedings of the 18th Asia and South Pacific Design Automation Conference (ASP-DAC), Yokohama, Japan, 2013 (\textbf{Best Paper Award})
+\vspace*{-6mm}\\
+
+C15. Zhiliang Qian, \textbf{Paul Bogdan}, Chi-Ying Tsui, Radu Marculescu, and Guopeng Wei, \textit{An Efficient Adaptive Routing Algorithm on a Highly Reconfigurable Network-on-Chip Architecture}, Proceedings of 10th IEEE /ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Tampere, Finland, 2012 (\textbf{Best Paper Award})
+\vspace*{-6mm}\\
+
+C14. Radu David, \textbf{Paul Bogdan} and Radu Marculescu, \textit{Dynamic Power Management for Multicores: Case Study Using the Intel SCC}, Proceedings of the IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), Santa Cruz, U.S.A., 2012
+\vspace*{-6mm}\\
+
+C13. \textbf{Paul Bogdan}, Siddharth Jain, Raffael Tornero and Radu Marculescu, \textit{Optimal Power Management of Multidomain Multiprocessor Platforms 
+under Highly Variable Workloads}, Proceedings of the 6th ACM/IEEE International Symposium on Networks on Chip (NOCS), Lyngby, Denmark, May 2012 (\textbf{Best Paper Award})
+\vspace*{-6mm}\\
+
+C12. \textbf{Paul Bogdan}, Siddharth Jain, Kartikeya Goyal and Radu Marculescu, \textit{Implantable Pacemakers Control and Optimization via Fractional Calculus Approaches: A Cyber-Physical Systems Perspective}, Proceedings of the ACM/IEEE 3rd International Conference on Cyber-Physical Systems (ICCPS), CPSWeek, Beijing, China, April 2012
+\vspace*{-6mm}\\
+
+C11. \textbf{Paul Bogdan} and Radu Marculescu, \textit{A Fractional Calculus Approach to Modeling Fractal Dynamic Games}, Proceedings of the 50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), Orlando, Florida, USA, December 2011
+\vspace*{-6mm}\\
+
+C10. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Towards a Science of Cyber-Physical Systems Design}, Proceedings of the ACM/IEEE 2nd International Conference on Cyber-Physical Systems (ICCPS), CPSWeek, Chicago, Illinois, USA, April 2011
+\vspace*{-6mm}\\
+
+C9. Partha Pratim Pande, Fabien Clermidy, Diego Puschini, Imen Mansouri, \textbf{Paul Bogdan}, Radu Marculescu, Amlan Ganguly, \textit{Sustainability Through Massively Integrated Computing: Are We Ready to Break the Energy Efficiency Wall for Single-Chip Platforms?}, Proceedings of the Design, Automation and Test in Europe Conference and Exhibition (DATE), Grenoble, France, March 2011
+\vspace*{-6mm}\\
+
+C8. Cory Bevilacqua, \textbf{Paul Bogdan}, and Radu Marculescu, \textit{Exploring Congestion Phase Transitions in Vehicular Traffic Via Topology and Driver Behavior Modeling}, Proceedings of IEEE Forum on Integrated and Sustainable Transportation Systems, Vienna, Austria, 2011
+\vspace*{-12mm}\\
+
+C7. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Workload Characterization and Its Impact on Multicore Platform Design}, Proceedings of 8th IEEE/ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Scottsdale, Arizona, USA, October 2010
+\vspace*{-6mm}\\
+
+C6. \textbf{Paul Bogdan}, Miray Kas, Radu Marculescu and Onur Mutlu, \textit{QuaLe: A Quantum-Leap Inspired Model for Non-Stationary Analysis of NoC Traffic in Multi-Processor Platforms}, Proceedings of the 4th ACM/IEEE Intl. Symposium on Networks-on-Chip (NOCS), Grenoble, France, 2010
+\vspace*{-6mm}\\
+
+C5. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Statistical Physics Approaches for Network-on-Chip Traffic Characterization}, Proceedings of the 7th IEEE/ACM International Conference on Hardware-Software Codesign and System Synthesis (CODES+ISSS), Grenoble, France, 2009
+\vspace*{-6mm}\\
+
+C4. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Hitting Time Analysis for Stochastic Communication}, Proceedings of the ACM International Conference on Nano-Networks, Boston, USA, 2008
+\vspace*{-6mm}\\
+
+C3. \textbf{Paul Bogdan} and Radu Marculescu, \textit{Quantum-Like Effects in Network-on-Chip Buffers Behavior}, Proceedings of the 44th Design Automation Conference, San Diego, USA, 2007 
+\vspace*{-6mm}\\
+
+C2. \textbf{Paul Bogdan} and Radu Marculescu, \textit{A Theoretical Framework for On-Chip Stochastic Communication Analysis}, Proceedings of the IEEE International Conference on Nano-Networks, Lausanne, Switzerland, 2006

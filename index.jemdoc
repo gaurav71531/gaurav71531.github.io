@@ -1,0 +1,120 @@
+# jemdoc: menu{MENU}{index.html}
+= Gaurav Gupta
+
+~~~
+{}{img_left}{pics\portrait.jpg}{150px}{160px}{}{}
+Fourth year PhD Student \n
+Ming Hsieh Department of Electrical Engineering \n
+University of Southern California
+
+=== Contact
+{{email: <img class="eq" src="pics/email2.png" alt="ggaurav" style="vertical-align: -4px" /><br />
+<img class="eq" src="pics/email1.png" alt="gaurav71531" style="vertical-align: -4px" /> <br />}}
+~~~
+
+== Research Interests
+
+- Applications of Information theory in machine learning and inference
+- Submodular Optimization
+- Modeling and Analysis of Brain EEG, neuron signals
+
+== Publications
+
+=== Journals
+
+- /Gaurav Gupta/, Meghana Kshirsagar, Ming Zhong, Shahrzad Gholami, and Juan Lavista Ferres \n
+*Recurrent Convolutional Neural Networks for large scale Bird species classification* [https://www.researchsquare.com/article/rs-275942/v1 \[link]] [https://github.com/microsoft/bird-acoustics-rcnn \[code]]\n
+under review Nature Scientific Reports
+
+- Mohamed Ridha Znaidi\*, /Gaurav Gupta/\*, Kamiar Asgari, and [https://cps.usc.edu Paul Bogdan] \n
+*Identifying Arguments of Space-Time Fractional Diffusion: Data-driven Approach* [https://www.frontiersin.org/articles/10.3389/fams.2020.00014 \[link]] [https://github.com/gaurav71531/fractDiffusion \[code]]\n
+Frontiers in Applied Mathematics and Statistics, May 2020 \n
+(\* equal contribution authors)
+
+- /Gaurav Gupta/, [http://www.spequito.com Sergio Pequito], and [https://cps.usc.edu Paul Bogdan] \n
+*Approximate submodular functions and performance guarantees* [https://arxiv.org/abs/1806.06323 \[arXiv]]\n
+under review Journal of Machine Learning Research (JMLR)
+
+- Valeriu Balaban, Sean Lim, /Gaurav Gupta/, James Boedicker, and [https://cps.usc.edu Paul Bogdan] \n 
+*Quantifying emergence and self-organisation of Enterobacter cloacae microbial communities* [https://www.nature.com/articles/s41598-018-30654-9 \[link]]\n
+ Nature Scientific reports 8, 2018
+
+- /Gaurav Gupta/ and [http://home.iitk.ac.in/~akc  A.K. Chaturvedi] \n
+  *User Selection in MIMO Interfering Broadcast Channels* [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6783950 \[link]] [https://arxiv.org/abs/1310.7425 \[arXiv]] [https://github.com/gaurav71531/mimoIC \[code]]\n
+  IEEE transactions on Communications, vol. 62, no. 5, pp. 1568-1576, Apr. 2014
+
+- /Gaurav Gupta/ and [http://home.iitk.ac.in/~akc  A.K. Chaturvedi] \n
+  *Conditional Entropy based User Selection for Multiuser MIMO systems* [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6559975 \[link]] [https://arxiv.org/abs/1310.7852 \[arXiv]] [https://github.com/gaurav71531/condEnt \[code]]\n
+  IEEE Communications Letters, vol. 17, no. 8, pp. 1628-1631, Aug. 2013
+
+=== Conference
+
+- Chenzhong Yin, /Gaurav Gupta/, and [https://cps.usc.edu Paul Bogdan] \n
+*Discovering laws from the Observations: A Data-driven Approach* \n
+Dynamic Data Driven Applications Systems (DDDAS) 2020
+
+- /Gaurav Gupta/, [https://anitksahu.github.io/ Anit Kumar Sahu], and Wan-Yi Lin \n
+*Noisy Batch Active Learning with Deterministic Annealing* [https://arxiv.org/abs/1909.12473 \[arXiv]]
+
+- /Gaurav Gupta/, [http://www.spequito.com Sergio Pequito] and [https://cps.usc.edu Paul Bogdan] \n
+*Learning latent Fractional dynamics with Unknown Unknowns* [https://ieeexplore.ieee.org/document/8815074 \[link]] [https://arxiv.org/abs/1811.00703 \[arXiv]] [https://github.com/gaurav71531/hiddenState \[code]]\n
+Proceedings of the 2019 American Control Conference
+
+- Ruochen Yang\*, /Gaurav Gupta/\* and [https://cps.usc.edu Paul Bogdan] \n
+*﻿Data-driven Perception of Neuron Point Process with Unknown Unknowns* [https://dl.acm.org/doi/10.1145/3302509.3311056 \[link]] [https://arxiv.org/abs/1811.00688 \[arXiv]] [https://github.com/gaurav71531/spikeNetwork \[code]]\n
+Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems \n (ICCPS), Cyber-Physical Systems Week, Montreal, Quebec, Canada — April 16 - 18, 2019 \n
+(\* equal contribution authors)
+
+- /Gaurav Gupta/, [http://www.spequito.com Sergio Pequito] and [https://cps.usc.edu Paul Bogdan] \n
+*Re-thinking EEG-based non-invasive brain interfaces: modeling and analysis* [https://dl.acm.org/citation.cfm?id=3207896.3207928 \[link]] [https://arxiv.org/abs/1803.10318 \[arXiv]]\n
+Proceedings of the 2018 ACM/IEEE International Conference on Cyber-Physical Systems \n (ICCPS), Cyber-Physical Systems Week, Porto, Portugal, April 2018
+
+- /Gaurav Gupta/, [http://www.spequito.com Sergio Pequito] and [https://cps.usc.edu Paul Bogdan] \n
+*Dealing with unknown unknowns: Identification and selection of minimal sensing \n for fractional dynamics with unknown inputs* [https://ieeexplore.ieee.org/document/8430866 \[link]] [https://arxiv.org/abs/1803.04866 \[arXiv]] [https://github.com/gaurav71531/UUknowns \[code]] \n
+Proceedings of the 2018 American Control Conference, Milwaukee, USA, June 27-29, 2018 
+
+- /Gaurav Gupta/ and [https://cps.usc.edu Paul Bogdan] \n
+*Distributed Placement of Power Generation Resources in Uncertain Environments* [https://ieeexplore.ieee.org/document/7944993/ \[link]] [https://github.com/gaurav71531/ror \[code]]\n
+Proceedings of the 2017 ACM/IEEE International Conference on Cyber-Physical Systems \n (ICCPS), Cyber-Physical Systems Week, Pittsburgh, USA, pp. 71-79, April 2017 
+
+- /Gaurav Gupta/ and [http://home.iitk.ac.in/~akc  A.K. Chaturvedi] \n
+  *User Selection in MIMO Interfering Broadcast Channels* (Invited paper)[IFBC_V4.pdf \[talk]] \n
+  SPCOM-2014
+  
+=== Patents
+
+- Gaurav Gupta, Anit Kumar Sahu, Wan-Yi Lin, and Joseph Szurley \n
+  *Training a Machine Learning Model Using a Batch Based Active Learning Approach* \n
+  U.S. Patent
+
+- Kapil Gulati, /Gaurav Gupta/, Shailesh Patil and Marco Papaleo \n
+ *Congestion Control for LTE-V2V*, U.S. Patent Application No. 15/585,782, May 3 2017
+ 
+- Kapil Gulati, /Gaurav Gupta/, Shailesh Patil and Marco Papaleo\n 
+*Congestion Control for LTE-V2V*, U.S. Patent Application No. 15/585,635, May 3 2017
+
+- Kapil Gulati, /Gaurav Gupta/, Shailesh Patil, Durga Prasad Malladi, Sudhir Kumar Baghel and Marco Papaleo \n
+*Multi-Technology Coexistence in the unlicensed intelligent transportation service spectrum*, \n U.S. Patent Application No. 15/644,378, July 7 2017
+
+- Shailesh Patil, Kapil Gulati and /Gaurav Gupta/ \n 
+*Detection of Technologies for Coexistence*, U.S. Patent Application No. 15/617,765, June 8 2017
+
+- Kapil Gulati, Shailesh Patil, /Gaurav Gupta/, Sudhir Kumar Baghel and Marco Papaleo \n
+*DSRC-LTE V2V Co-Channel Long Term Coexistence*, U.S. Patent Application No. 15/465,877, Mar 22 2017
+
+=== Technical Reports
+
+- /Gaurav Gupta/ and S.A. Jafar \n
+  *Topological Interference Management and frequency hopping* [Freq_hopp.pdf \[pdf]]
+
+- /Gaurav Gupta/ and S.A. Jafar \n
+  *Degrees of freedom in rank deficient channels* [rank_def.pdf \[pdf]]
+
+- /Gaurav Gupta/ and [http://home.iitk.ac.in/~akc  A.K. Chaturvedi] \n
+  *Low complexity user/antenna selection in MU-MIMO channels* [BTP_Report1.pdf \[pdf]] 
+
+- /Gaurav Gupta/, Shiv Prakash and [http://home.iitk.ac.in/~arh A.R. Harish] \n
+  *RFID Assets Tracking System* [RFID_report.pdf \[pdf]]\n
+
+- /Gaurav Gupta/ and Mayank Bhardwaj \n
+  *Interference Alignment Schemes for MIMO Channels* [Report.pdf \[pdf]]

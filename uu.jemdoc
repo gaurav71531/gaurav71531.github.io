@@ -1,32 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Complex networks modeling using fractional dynamics in the presense of hidden nodes/unknown unknowns</title>
-</head>
-<body>
-<div id="layout-content">
-<div id="toptitle">
-<h1>Complex networks modeling using fractional dynamics in the presense of hidden nodes/unknown unknowns</h1>
-</div>
-<table class="imgtable"><tr><td>
-<img src="pics/complexNetUU.png" alt="uu" width="800px" height="400px" />&nbsp;</td>
-<td align="left"></td></tr></table>
-<p>The theme of this project lies in answering a big and interesting question of incorporating unknown artifact contribution towards Non-Markovian dynamics. 
+== Complex networks modeling using fractional dynamics in the presense of hidden nodes/unknown unknowns
+
+~~~
+{}{img_left}{pics/complexNetUU.png}{uu}{800px}{400px}{}{}
+~~~
+
+The theme of this project lies in answering a big and interesting question of incorporating unknown artifact contribution towards Non-Markovian dynamics. 
 Numerous real world systems, for example, brain, physiological signals, social networks, gene-regulatory networks etc. can be modeled accurately with fractional dynamics 
 by including long-range memory and spatial correlations. However, the assumption of complete knowledge of the network may not hold in most of the experimental situations 
 due to limited probing resources. The inclusion of unknown unknowns aims to answer this limitation by probabilistically adding the hidden effects in the observed data.
-The ongoing work is detailed in the following publications.</p>
-<ol>
-<li><p>Dealing with unknown unknowns: Compact accurate modeling of brain EEG signals using fractional dynamics</p>
-</li>
-</ol>
-<dl>
-<dt></dt>
-<dd><p><b>Abstract:</b> This paper focuses on analysis and design of timevarying
+The ongoing work is detailed in the following publications.
+
+. Dealing with unknown unknowns: Compact accurate modeling of brain EEG signals using fractional dynamics
+
+:{} *Abstract:* This paper focuses on analysis and design of timevarying
 complex networks having fractional order dynamics.
 These systems are key in modeling the complex dynamical
 processes arising in several natural and man made systems.
@@ -51,19 +37,16 @@ measured to ensure that both state and input can be recovered,
 while establishing sub-optimality guarantees with respect to the
 smallest possible subset. Finally, we present several pedagogical
 examples of the main results using real data collected from an
-EEG wearable device.<br />
-<a href="https://arxiv.org/abs/1803.04866">[paper</a>] <a href="https://github.com/gaurav71531/UUknowns">[code</a>]</p></dd>
-</dl>
-<ol>
-<li><p>﻿Learning latent Fractional dynamics with Unknown Unknowns</p>
-</li>
-</ol>
-<table class="imgtable"><tr><td>
-<img src="pics/hiddenState.png" alt="uu" width="800px" height="400px" />&nbsp;</td>
-<td align="left"></td></tr></table>
-<dl>
-<dt></dt>
-<dd><p><b>Abstract:</b> Despite significant effort in understanding complex
+EEG wearable device.\n
+[https://arxiv.org/abs/1803.04866 \[paper]] [https://github.com/gaurav71531/UUknowns \[code]]
+
+. ﻿Learning latent Fractional dynamics with Unknown Unknowns
+
+~~~
+{}{img_left}{pics/hiddenState.png}{uu}{800px}{400px}{}{}
+~~~
+
+:{} *Abstract:* Despite significant effort in understanding complex
 systems (CS), we lack a theory for modeling, inference,
 analysis and efficient control of time-varying complex networks
 (TVCNs) in uncertain environments. From brain activity dynamics
@@ -87,22 +70,7 @@ consisting of discrete-time fractional dynamical equations and
 propose an iterative framework to determine the network
 parameterization and predict the state of the system. We
 showcase the performance of the proposed framework in the
-context of task classification using real electroencephalogram data.<br />
-<a href="https://arxiv.org/abs/1811.00703">[paper</a>] <a href="https://github.com/gaurav71531/hiddenState">[code</a>]</p></dd>
-</dl>
-<div id="footer">
-<div id="footer-text">
-Page generated 2019-12-24 19:23:47 IST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</div>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121309974-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-121309974-1');
-</script>
-</body>
-</html>
+context of task classification using real electroencephalogram data.\n
+[https://arxiv.org/abs/1811.00703 \[paper]] [https://github.com/gaurav71531/hiddenState \[code]]
+
+

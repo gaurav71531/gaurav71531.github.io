@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Gaurav Gupta</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Navigation</div>
+<div class="menu-item"><a href="index.html">home</a></div>
+<div class="menu-item"><a href="bio.html">bio</a></div>
+<div class="menu-item"><a href="proj.html" class="current">projects</a></div>
+<div class="menu-item"><a href="code.html">code</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Gaurav Gupta</h1>
+</div>
+<table class="grid" id="projTable0"><tr>
+</tr></table>
+<script>
+gridTableInit0();
+window.addEventListener("resize", gridTableInit0);
+function gridTableInit0(){
+var projCount = 0;
+var varWidth = 150;
+var table = document.getElementById("projTable0");
+table.innerHTML = "";
+var rowId = 0;
+var consecutiveBreaks = 0;
+while(1){
+out = projElem0(projCount+1);
+if (out.str == 'empty'){
+break;
+}
+var row = table.insertRow(rowId);
+var cell = row.insertCell(0);
+var x = document.createElement('TABLE');
+x.className = 'grid';
+var tr = document.createElement('tr');
+var rowBegin = false;
+while(1){
+var out = projElem0(projCount+1);
+if (out.str == 'empty'){
+consecutiveBreaks = 0;
+break;
+}
+if (varWidth + out.width> window.outerWidth){
+consecutiveBreaks += 1;
+break;
+}
+var td = document.createElement('td');
+if (out.type == 'part'){
+td.className = 'topBox';
+var widthVar = out.width.toString() + 'px';
+td.width = widthVar;
+td.innerHTML = out.str;
+tr.appendChild(td);
+varWidth += out.width;
+varWidth += 20;
+projCount += 1;
+consecutiveBreaks = 0;
+rowBegin = true;
+continue;
+}
+else if(out.type == 'full' && !rowBegin){
+td.className = 'fullBlock';
+td.innerHTML = out.str;
+tr.appendChild(td);
+projCount += 1;
+consecutiveBreaks = 0;
+break;
+}
+else{
+break;
+}
+}
+if (consecutiveBreaks>1){
+break;
+}
+x.appendChild(tr)
+cell.appendChild(x);
+varWidth = 150;
+rowId += 1;
+}
+}
+function projElem0(ind){
+switch(ind){
+case 1:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="fDiff.html">Fractional Diffusion Equations</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/f_diff.png" alt="aSMF" style="width:350px;height:200px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Learning fractional PDEs from the time-series data';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:350, type:'part'};
+break;
+case 2:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="appSMF.html">Approximate submodular functions</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/appSMF.png" alt="aSMF" style="width:250px;height:220px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Approximating a non-submodular function by bounding the function marginals with submodular functions';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:250, type:'part'};
+break;
+case 3:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="spikeNet.html">Network Reconstruction with spiking events</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/spikeNet.png" alt="spkNet" style="width:390px;height:200px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Complex networks reconstruction from spike trains using generalized poisson process with unknown unknowns';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:390, type:'part'};
+break;
+case 4:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="uu.html">Dealing with Unknown Unknowns</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/complexNet.png" alt="cNetUU" style="width:250px;height:220px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Complex networks modeling using fractional dynamics in the presense of hidden nodes/unknown unknowns';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:250, type:'part'};
+break;
+case 5:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="eeg.html">Re-thinking EEG based interfaces</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/brainMain.png" alt="brainEEG" style="width:280px;height:220px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Fractional dynamical modeling of EEG signals for motor imagery task predictions';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:280, type:'part'};
+break;
+case 6:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="ror.html">Resource allocation in uncertainty</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/ror.PNG" alt="ror" style="width:250px;height:250px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Dynamics resource allocation under uncertain environments';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:250, type:'part'};
+break;
+default:
+out = {str:'empty', width:0};
+}
+return out;
+}
+</script>
+<div id="footer">
+<div id="footer-text">
+Page generated 2020-06-23 21:58:01 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121309974-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-121309974-1');
+</script>
+</body>
+</html>
