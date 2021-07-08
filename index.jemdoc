@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{pics\portrait.jpg}{150px}{160px}{}{}
-Fourth year PhD Student \n
+PhD Candidate \n
 Ming Hsieh Department of Electrical Engineering \n
 University of Southern California
 
@@ -14,6 +14,7 @@ University of Southern California
 
 == Research Interests
 
+- Sequence modeling, learning partial differential equations
 - Applications of Information theory in machine learning and inference
 - Submodular Optimization
 - Modeling and Analysis of Brain EEG, neuron signals
