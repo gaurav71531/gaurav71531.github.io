@@ -2,6 +2,7 @@
 = Gaurav Gupta
 
 ^^^
+{}{colorGrid}{part}{pics/rcnn.png}{rect}{RCNN}{420px}{150px}{Recurrent CNNs}{rcnn.html}{Recurrent Convolutional Neural Networks for sound classification}
 {}{colorGrid}{part}{pics/DeAn.png}{rect}{DeAn}{350px}{200px}{Active Learning}{dean.html}{Deterministic Annealing-based Active Learning for DNNs}
 {}{colorGrid}{part}{pics/f_diff.png}{rect}{fdiff}{350px}{200px}{Fractional Diffusion Equations}{fDiff.html}{Learning fractional PDEs from the time-series data}
 {}{colorGrid}{part}{pics/appSMF.png}{rect}{aSMF}{250px}{220px}{Approximate submodular functions}{appSMF.html}{Approximating a non-submodular function by bounding the function marginals with submodular functions}
