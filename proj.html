@@ -16,6 +16,9 @@
 <div class="menu-item"><a href="bio.html">bio</a></div>
 <div class="menu-item"><a href="proj.html" class="current">projects</a></div>
 <div class="menu-item"><a href="code.html">code</a></div>
+<div class="menu-category">Profile</div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?user=Maqaq6MAAAAJ&hl">Google&nbsp;Scholar</a></div>
+<div class="menu-item"><a href="https://github.com/gaurav71531">Github</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
@@ -96,16 +99,30 @@ var ss = "";
 ss += '<td class="innerBlock">';
 ss += '<table class="colorBlock">';
 ss += '<tr><td class="cbHeading">';
+ss += '<a class="bh" href="dean.html">Active Learning</a></td></tr>';
+ss += '<tr><td class="image">';
+ss += '<img src="pics/dean.png" alt="dean" style="width:350px;height:200px;" /></td></tr>';
+ss += '<tr><td class="bottomText">';
+ss += 'Deterministic Annealing-based Active Learning for DNNs';
+ss += '</td></tr>';
+ss += '</table></td>';
+var out = {str:ss, width:350, type:'part'};
+break;
+case 2:
+var ss = "";
+ss += '<td class="innerBlock">';
+ss += '<table class="colorBlock">';
+ss += '<tr><td class="cbHeading">';
 ss += '<a class="bh" href="fDiff.html">Fractional Diffusion Equations</a></td></tr>';
 ss += '<tr><td class="image">';
-ss += '<img src="pics/f_diff.png" alt="aSMF" style="width:350px;height:200px;" /></td></tr>';
+ss += '<img src="pics/f_diff.png" alt="fdiff" style="width:350px;height:200px;" /></td></tr>';
 ss += '<tr><td class="bottomText">';
 ss += 'Learning fractional PDEs from the time-series data';
 ss += '</td></tr>';
 ss += '</table></td>';
 var out = {str:ss, width:350, type:'part'};
 break;
-case 2:
+case 3:
 var ss = "";
 ss += '<td class="innerBlock">';
 ss += '<table class="colorBlock">';
@@ -119,7 +136,7 @@ ss += '</td></tr>';
 ss += '</table></td>';
 var out = {str:ss, width:250, type:'part'};
 break;
-case 3:
+case 4:
 var ss = "";
 ss += '<td class="innerBlock">';
 ss += '<table class="colorBlock">';
@@ -133,7 +150,7 @@ ss += '</td></tr>';
 ss += '</table></td>';
 var out = {str:ss, width:390, type:'part'};
 break;
-case 4:
+case 5:
 var ss = "";
 ss += '<td class="innerBlock">';
 ss += '<table class="colorBlock">';
@@ -147,7 +164,7 @@ ss += '</td></tr>';
 ss += '</table></td>';
 var out = {str:ss, width:250, type:'part'};
 break;
-case 5:
+case 6:
 var ss = "";
 ss += '<td class="innerBlock">';
 ss += '<table class="colorBlock">';
@@ -161,7 +178,7 @@ ss += '</td></tr>';
 ss += '</table></td>';
 var out = {str:ss, width:280, type:'part'};
 break;
-case 6:
+case 7:
 var ss = "";
 ss += '<td class="innerBlock">';
 ss += '<table class="colorBlock">';
@@ -183,7 +200,7 @@ return out;
 </script>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-06-23 21:58:01 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2021-07-15 13:40:52 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>

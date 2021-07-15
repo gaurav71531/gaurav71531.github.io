@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Noisy Batch Active Learning with Deterministic Annealing</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Noisy Batch Active Learning with Deterministic Annealing</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="pics/DeAnMain.png" alt="bci" width="750px" height="400px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<p><b>Abstract:</b> We study the problem of training machine learning models incrementally with batches of samples annotated with noisy oracles. We select each batch of samples that are important and also diverse via clustering and importance sampling. More importantly, we incorporate model uncertainty into the sampling probability to compensate poor estimation of the importance scores when the training data is too small to build a meaningful model. Experiments on benchmark image classification datasets (MNIST, SVHN, CIFAR10, and EMNIST) show improvement over existing active learning strategies. We introduce an extra denoising layer to deep networks to make active learning robust to label noises and show significant improvements.<br />
+<a href="https://arxiv.org/abs/1909.12473">[paper</a>] <a href="https://github.com/gaurav71531/DeAn">[code</a>]</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2021-07-15 13:39:52 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121309974-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-121309974-1');
+</script>
+</body>
+</html>

@@ -2,6 +2,7 @@
 = Gaurav Gupta
 
 ^^^
+{}{colorGrid}{part}{pics/dean.png}{rect}{dean}{350px}{200px}{Active Learning}{dean.html}{Deterministic Annealing-based Active Learning for DNNs}
 {}{colorGrid}{part}{pics/f_diff.png}{rect}{fdiff}{350px}{200px}{Fractional Diffusion Equations}{fDiff.html}{Learning fractional PDEs from the time-series data}
 {}{colorGrid}{part}{pics/appSMF.png}{rect}{aSMF}{250px}{220px}{Approximate submodular functions}{appSMF.html}{Approximating a non-submodular function by bounding the function marginals with submodular functions}
 {}{colorGrid}{part}{pics/spikeNet.png}{rect}{spkNet}{390px}{200px}{Network Reconstruction with spiking events}{spikeNet.html}{Complex networks reconstruction from spike trains using generalized poisson process with unknown unknowns}
