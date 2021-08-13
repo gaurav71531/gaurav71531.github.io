@@ -2,7 +2,7 @@
 = Gaurav Gupta
 
 ~~~
-{}{img_left}{pics\portrait.jpg}{150px}{160px}{}{}
+{}{img_left}{pics\img_main.jpg}{150px}{160px}{}{}
 PhD Candidate \n
 Ming Hsieh Department of Electrical Engineering \n
 University of Southern California
@@ -24,7 +24,7 @@ University of Southern California
 === Journals
 
 - /Gaurav Gupta/, Meghana Kshirsagar, Ming Zhong, Shahrzad Gholami, and Juan Lavista Ferres \n
-*Comparing Recurrent Convolutional Neural Networks for large scale Bird species classification* [https://www.researchsquare.com/article/rs-275942/v1 \[link]] [https://github.com/microsoft/bird-acoustics-rcnn \[code]]\n
+*Comparing Recurrent Convolutional Neural Networks for large scale Bird species classification* [https://www.researchsquare.com/article/rs-275942/v2 \[link]] [https://github.com/microsoft/bird-acoustics-rcnn \[code]]\n
 accepted in Nature Scientific Reports
 
 - Mohamed Ridha Znaidi\*, /Gaurav Gupta/\*, Kamiar Asgari, and [https://cps.usc.edu Paul Bogdan] \n
