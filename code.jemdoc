@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{code.html}
 = Gaurav Gupta
 
-- *Recurrent Convolutional Neural Networks for large scale Bird species classification* [https://github.com/microsoft/bird-acoustics-rcnn \[code]]\n
+- *Comparing Recurrent Convolutional Neural Networks for large scale Bird species classification* [https://github.com/microsoft/bird-acoustics-rcnn \[code]]\n
 
 - *Additional mods to the jemdoc html scripting* [https://github.com/gaurav71531/jemdoc \[code]]\n
 
