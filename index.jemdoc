@@ -19,6 +19,17 @@ University of Southern California
 - Submodular Optimization
 - Modeling and Analysis of Brain EEG, neuron signals
 
+== Recent
+- See our Multiwavelets-based approach to efficiently learn the Operator maps
+~~~
+{}{img_left}{pics/mwtMain.png}{alt text}{250px}{120px}{}
+~~~
+/Gaurav Gupta/, Xiongye Xiao, and [https://cps.usc.edu Paul Bogdan] \n
+*Multiwavelet-based Operator Learning for Differential Equations* \n
+accepted NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021. *Spotlight*\n
+\[preprint coming]
+
+
 == Publications
 
 === Journals
