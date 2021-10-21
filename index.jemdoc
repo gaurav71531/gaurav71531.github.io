@@ -14,10 +14,10 @@ University of Southern California
 
 == Research Interests
 
-- Sequence modeling, learning partial differential equations
+- time-series, learning partial differential equations
 - Applications of Information theory in machine learning and inference
-- Submodular Optimization
-- Modeling and Analysis of Brain EEG, neuron signals
+- Fractional dynamics
+- Modeling and Analysis of physiological signals (e.g. EEG, neuron spike events)
 
 == Recent
 - See our Multiwavelets-based approach to efficiently learn the Operator maps
