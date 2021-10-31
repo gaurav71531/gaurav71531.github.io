@@ -61,6 +61,10 @@ under review Journal of Machine Learning Research (JMLR)
 
 === Conference
 
+- /Gaurav Gupta/, Xiongye Xiao, and [https://cps.usc.edu Paul Bogdan] \n
+*Multiwavelet-based Operator Learning for Differential Equations* [https://arxiv.org/abs/2109.13459 \[arXiv]] [https://github.com/gaurav71531/mwt-operator \[code]]\n
+In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021. *Spotlight*\n
+
 - /Gaurav Gupta/, Chenzhong Yin, [https://jdeshmukh.github.io/ Jyotirmoy Deshmukh], and [https://cps.usc.edu Paul Bogdan] \n
 *Non-Markovian Reinforcement Learning using Fractional Dynamics* [https://arxiv.org/abs/2107.13790 \[arXiv]]\n
 accepted in the Proceedings of IEEE Conference on Decision and Control (CDC) 2021
