@@ -23,11 +23,12 @@ University of Southern California
 - See our Multiwavelets-based approach to efficiently learn the Operator maps
 ~~~
 {}{img_left}{pics/mwtMain.png}{alt text}{250px}{120px}{}
-~~~
-/Gaurav Gupta/, Xiongye Xiao, and [https://cps.usc.edu Paul Bogdan] \n
-*Multiwavelet-based Operator Learning for Differential Equations* \n
-accepted NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021. *Spotlight*\n
+/Gaurav Gupta/, Xiongye Xiao, and [https://cps.usc.edu Paul Bogdan]\n
+*Multiwavelet-based Operator Learning for Differential Equations*\n
+In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, \n
+December 2021. *Spotlight*\n
 [https://arxiv.org/abs/2109.13459 \[arXiv]] [https://github.com/gaurav71531/mwt-operator \[code]]\n
+~~~
 
 \n
 - Check out our novel *``particles''* approach to extract the network topological information from a single node
