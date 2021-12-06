@@ -29,6 +29,16 @@ University of Southern California
 accepted NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021. *Spotlight*\n
 [https://arxiv.org/abs/2109.13459 \[arXiv]] [https://github.com/gaurav71531/mwt-operator \[code]]\n
 
+\n
+- Check out our novel *``particles''* approach to extract the network topological information from a single node
+~~~
+{}{img_left}{pics/npp1.gif}{alt text}{250px}{150px}{}
+/Gaurav Gupta/, [https://rhodeslab.beckman.illinois.edu/ Justin Rhodes], [https://www.cns.nyu.edu/kianilab Roozbeh Kiani], and [https://cps.usc.edu Paul Bogdan] \n
+*Neuron particles capture network topology and behavior from single units* \n
+[https://www.biorxiv.org/content/10.1101/2021.12.03.471160v1 \[preprint]]
+~~~
+
+
 
 == Publications
 
