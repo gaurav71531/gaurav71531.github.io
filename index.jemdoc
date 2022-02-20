@@ -3,9 +3,9 @@
 
 ~~~
 {}{img_left}{pics\img_main.jpg}{150px}{160px}{}{}
-PhD Candidate \n
-Ming Hsieh Department of Electrical Engineering \n
-University of Southern California
+Applied Scientist, AWS-AI \n
+PhD, University of Southern California \n
+[dissertation.pdf PhD Thesis]
 
 === Contact
 {{email: <img class="eq" src="pics/email2.png" alt="ggaurav" style="vertical-align: -4px" /><br />
@@ -27,7 +27,7 @@ University of Southern California
 *Multiwavelet-based Operator Learning for Differential Equations*\n
 In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, \n
 December 2021. *Spotlight*\n
-[https://arxiv.org/abs/2109.13459 \[arXiv]] [https://github.com/gaurav71531/mwt-operator \[code]]\n
+[https://openreview.net/forum?id=LZDiWaC9CGL \[link]][https://arxiv.org/abs/2109.13459 \[arXiv]] [https://github.com/gaurav71531/mwt-operator \[code]]\n
 ~~~
 
 \n
@@ -81,7 +81,7 @@ In ICLR: 10th International Conference on Learning Representations, April 2022.\
 In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021. *Spotlight*\n
 
 - /Gaurav Gupta/, Chenzhong Yin, [https://jdeshmukh.github.io/ Jyotirmoy Deshmukh], and [https://cps.usc.edu Paul Bogdan] \n
-*Non-Markovian Reinforcement Learning using Fractional Dynamics* [https://arxiv.org/abs/2107.13790 \[arXiv]]\n
+*Non-Markovian Reinforcement Learning using Fractional Dynamics* [https://ieeexplore.ieee.org/document/9683076 \[link]] [https://arxiv.org/abs/2107.13790 \[arXiv]]\n
 In the Proceedings of IEEE Conference on Decision and Control (CDC) 2021
 
 - Chenzhong Yin, /Gaurav Gupta/, and [https://cps.usc.edu Paul Bogdan] \n
