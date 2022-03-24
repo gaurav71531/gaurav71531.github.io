@@ -5,7 +5,7 @@
 {}{img_left}{pics\img_main.jpg}{150px}{160px}{}{}
 Applied Scientist, AWS-AI \n
 PhD, University of Southern California \n
-[dissertation.pdf PhD Thesis]
+[docs/dissertation.pdf PhD Thesis]
 
 === Contact
 {{email: <img class="eq" src="pics/email2.png" alt="ggaurav" style="vertical-align: -4px" /><br />
@@ -113,7 +113,7 @@ Proceedings of the 2018 American Control Conference, Milwaukee, USA, June 27-29,
 Proceedings of the 2017 ACM/IEEE International Conference on Cyber-Physical Systems \n (ICCPS), Cyber-Physical Systems Week, Pittsburgh, USA, pp. 71-79, April 2017 
 
 - /Gaurav Gupta/ and [http://home.iitk.ac.in/~akc  A.K. Chaturvedi] \n
-  *User Selection in MIMO Interfering Broadcast Channels* (Invited paper)[IFBC_V4.pdf \[talk]] \n
+  *User Selection in MIMO Interfering Broadcast Channels* (Invited paper)[docs/IFBC_V4.pdf \[talk]] \n
   SPCOM-2014
   
 === Patents
@@ -140,16 +140,16 @@ Proceedings of the 2017 ACM/IEEE International Conference on Cyber-Physical Syst
 === Technical Reports
 
 - /Gaurav Gupta/ and S.A. Jafar \n
-  *Topological Interference Management and frequency hopping* [Freq_hopp.pdf \[pdf]]
+  *Topological Interference Management and frequency hopping* [docs/Freq_hopp.pdf \[pdf]]
 
 - /Gaurav Gupta/ and S.A. Jafar \n
-  *Degrees of freedom in rank deficient channels* [rank_def.pdf \[pdf]]
+  *Degrees of freedom in rank deficient channels* [docs/rank_def.pdf \[pdf]]
 
 - /Gaurav Gupta/ and [http://home.iitk.ac.in/~akc  A.K. Chaturvedi] \n
-  *Low complexity user/antenna selection in MU-MIMO channels* [BTP_Report1.pdf \[pdf]] 
+  *Low complexity user/antenna selection in MU-MIMO channels* [docs/BTP_Report1.pdf \[pdf]] 
 
 - /Gaurav Gupta/, Shiv Prakash and [http://home.iitk.ac.in/~arh A.R. Harish] \n
-  *RFID Assets Tracking System* [RFID_report.pdf \[pdf]]\n
+  *RFID Assets Tracking System* [docs/RFID_report.pdf \[pdf]]\n
 
 - /Gaurav Gupta/ and Mayank Bhardwaj \n
-  *Interference Alignment Schemes for MIMO Channels* [Report.pdf \[pdf]]
+  *Interference Alignment Schemes for MIMO Channels* [docs/Report.pdf \[pdf]]
