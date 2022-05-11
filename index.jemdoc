@@ -19,7 +19,7 @@ PhD, University of Southern California \n
 - Fractional dynamics and long-range memory
 - Modeling and Analysis of physiological signals (e.g. EEG, neuron spike events)
 
-== Recent
+== Featured
 - See our Multiwavelets-based approach to efficiently learn the Operator maps
 ~~~
 {}{img_left}{pics/mwtMain.png}{alt text}{250px}{120px}{}
@@ -71,6 +71,11 @@ under review Journal of Machine Learning Research (JMLR)
   IEEE Communications Letters, vol. 17, no. 8, pp. 1628-1631, Aug. 2013
 
 === Conference
+
+- Mohamed Ridha Znaidi\*, /Gaurav Gupta/\*, and [https://cps.usc.edu Paul Bogdan] \n
+*Secure Distributed/Federated Learning: Prediction-Privacy Trade-Off for Multi-Agent System* [https://arxiv.org/abs/2205.04855 \[arXiv]]\n
+in IEEE International Symposium on Information Theory (ISIT) 2022 \n
+(\* equal contribution authors)
 
 - /Gaurav Gupta/, Xiongye Xiao, [http://www.math.umd.edu/~rvbalan Radu Balan], and [https://cps.usc.edu Paul Bogdan] \n
 *Non-Linear Operator Approximations for Initial Value Problems* [https://openreview.net/forum?id=d2TT6gK9qZn \[link]]\n
