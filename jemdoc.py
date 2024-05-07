@@ -1861,7 +1861,8 @@ def main():
     else:
       thisout = outname
 
-    infile = open(inname, 'rUb')
+    # infile = open(inname, 'rUb')
+    infile = open(inname, 'rb')
     outfile = open(thisout, 'w')
 
     f = controlstruct(infile, outfile, conf, inname)
