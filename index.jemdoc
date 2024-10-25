@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{pics\img_main.jpg}{150px}{160px}{}{}
-Applied Scientist, AWS-AI \n
+Senior Scientist, AWS-AI \n
 PhD, University of Southern California \n
 [docs/dissertation.pdf PhD Thesis]
 
@@ -76,9 +76,13 @@ under review Journal of Machine Learning Research (JMLR)
 
 === Conference
 
-- Tao Yu, /Gaurav Gupta/, Karthick Gopalswamy, Amith Mamidala, Hao Zhou, Jeffrey Huynh, Youngsuk Park, Ron Diamant, Anoop Deoras, and Luke Huan \n
+- Tao Yu, /Gaurav Gupta/, Karthick Gopalswamy, Amith Mamidala, Hao Zhou, Jeffrey Huynh, Youngsuk Park, Ron Diamant, Anoop Deoras, and Jun Huan \n
 *Collage: Light-Weight Low-Precision Strategy for LLM Training* [https://arxiv.org/abs/2405.03637 \[arXiv]]\n
 in ICML: 41th International Conference on Machine Learning, July 2024.
+
+- Haozheng Fan, Hao Zhou, Guangtai Huang, Parameswaran Raman, Xinwei Fu, /Gaurav Gupta/, Dhananjay Ram, Yida Wang, Jun Huan \n
+*HLAT: High-quality Large Language Model Pre-trained on AWS Trainium* [https://arxiv.org/abs/2404.10630 \[arXiv]]\n
+in 2024 IEEE International Conference on Big Data, Dec 2024.
 
 - S. Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, /Gaurav Gupta/, Andrew Stuart, Michael W. Mahoney, and Yuyang Wang \n
 *Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs* [https://arxiv.org/abs/2403.10642 \[arXiv]]\n
