@@ -19,6 +19,16 @@ PhD, University of Southern California \n
 - Applications of Information theory in machine learning and inference
 
 == Featured
+- Dissecting model behavior through agent trajectories by projecting agent code-states into a solution space
+~~~
+{}{img_left}{pics/agentTraj.png}{alt text}{250px}{147px}{}
+/Gaurav Gupta/, Vatshank Chaturvedi, Jun Huan, and Anoop Deoras\n
+*Dissecting model behavior through agent trajectories*\n
+arXiv preprint, 2026\n
+[https://arxiv.org/abs/2606.17454 \[arXiv]] [https://github.com/strands-labs/benchmark-harnesses \[code]]\n
+~~~
+
+\n
 - See our Multiwavelets-based approach to efficiently learn the Operator maps
 ~~~
 {}{img_left}{pics/mwtMain.png}{alt text}{250px}{120px}{}
@@ -43,7 +53,7 @@ December 2021. *Spotlight*\n
 == Publications
 
 - /Gaurav Gupta/, Vatshank Chaturvedi, Jun Huan, and Anoop Deoras \n
-*Dissecting model behavior through agent trajectories* [https://arxiv.org/abs/2606.17454 \[arXiv]]\n
+*Dissecting model behavior through agent trajectories* [https://arxiv.org/abs/2606.17454 \[arXiv]] [https://github.com/strands-labs/benchmark-harnesses \[code]]\n
 arXiv preprint, 2026
 
 - Haozheng Fan, Hao Zhou, Guangtai Huang, Parameswaran Raman, Xinwei Fu, /Gaurav Gupta/, Dhananjay Ram, Yida Wang, Jun Huan \n
